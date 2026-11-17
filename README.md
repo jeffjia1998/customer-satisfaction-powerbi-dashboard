@@ -1,7 +1,7 @@
 # Customer Satisfaction Analysis (Power BI)
 
 ## Dashboard Preview
-![Customer Satisfaction Dashboard](‪D:\Projects\PowerBI_Marketing_Dashboard.png)
+![Customer Satisfaction Dashboard](‪https://github.com/jeffjia1998/MarketingData/blob/main/PowerBI_Marketing_Dashboard.png)
 
 ## Key Insights
 - **Total Customers:** 8,234
