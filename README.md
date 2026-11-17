@@ -1,2 +1,9 @@
-# MarketingData
-This is a showcase of visualizing sample data from an online marketing platform
+# Customer Satisfaction Analysis (Power BI)
+
+## Dashboard Preview
+![Customer Satisfaction Dashboard](‪D:\Projects\PowerBI_Marketing_Dashboard.png)
+
+## Key Insights
+- **Total Customers:** 8,234
+- **Satisfied Customers:** 3,408 (41.4%)
+- **Dissatisfied Customers:** 2,946 (35.8%)
